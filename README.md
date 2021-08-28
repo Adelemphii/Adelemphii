@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Adele</h1>
+<h1 align="center">Hemwo! I'm Adele</h1>
 <h3 align="center">A somewhat-passionate Java/Minecraft Developer from the U.S.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
@@ -9,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fabric/Forge Development, and Database/File Storage (In General)**
 
-- 👨‍💻 All of my projects are available at [https://adelemphii.me](https://adelemphii.me)
+- 👨‍💻 All of my projects are available at [https://github.com/Adelemphii](https://github.com/Adelemphii)
 
 - 💬 Ask me about **FantasyRP, any of my repos!**
 
