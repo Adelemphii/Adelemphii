@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
 
-- 🔭 I’m currently working on [ONBS-Reader-FRP](https://github.com/Adelemphii/ONBS-Reader-FRP)
+- 🔭 I’m currently working on [LimitedCreative-Rework](https://github.com/Adelemphii/LimitedCreative/blob/master/README.md)
 
 - 🌱 I’m currently learning **Fabric/Forge Development, and Database/File Storage (In General)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adelemphii](https://github.com/Adelemphii)
 
-- 💬 Ask me about **FantasyRP, any of my repos!**
+- 💬 Ask me about **STUFF!**
 
 - 📫 How to reach me **Discord: Adelemphii#6213**
 
