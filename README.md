@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Fabric/Forge Development, and Database/File Storage (In General)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adelemphii](https://github.com/Adelemphii)
+- 👨‍💻 All of my projects are available at [my Github!](https://github.com/Adelemphii)
 
-- 💬 Ask me about **STUFF!**
+- 💬 Ask me about [Adelem-Moderation](https://github.com/Adelemphii/Adelem/tree/Moderation)
 
 - 📫 How to reach me **Discord: Adelemphii#6213**
 
-- ⚡ Fun fact **I'm transgender, She/Her**
+- ⚡ Fun fact **I /really/ like food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
