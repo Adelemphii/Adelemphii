@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Molynsi](https://github.com/Adelemphii/Molynsi)
 
-- 🌱 I’m currently learning **More about java, more specifically file storage/management**
+- 🌱 I’m currently learning **C++, More specifically Ethical Game Hacking.**
 
 - 👨‍💻 All of my projects are available at [my Github!](https://github.com/Adelemphii)
 
