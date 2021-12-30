@@ -1,7 +1,7 @@
 <h1 align="center">Hemwo! I'm Adele</h1>
 <h3 align="center">A somewhat-passionate Java/Minecraft Developer from the U.S.</h3>
 
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/844958913178370132/926162022868078712/drawing.png" alt="adelemphii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
 
 - 🔭 I’m currently working on [Molynsi](https://github.com/Adelemphii/Molynsi)
 
