@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
 
-- 🔭 I’m currently working on [Molynsi](https://github.com/Adelemphii/Molynsi)
-
-- 🌱 I’m currently learning **C++, More specifically Ethical Game Hacking.**
+- 🔭 I’m currently working on [LoTC Stuff](https://github.com/orgs/Lord-of-the-Craft/projects/3)
 
 - 👨‍💻 All of my projects are available at [my Github!](https://github.com/Adelemphii)
-
-- 💬 Ask me about [Adelem-Moderation](https://github.com/Adelemphii/Adelem/tree/Moderation)
 
 - 📫 How to reach me **Discord: Adelemphii#6213**
 
