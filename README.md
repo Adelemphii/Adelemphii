@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
 
-- 🔭 I’m currently working on [RoR2-4m, A Risk of Rain 2 plugin](https://github.com/Adelemphii/RoR2-4m)
+- 🔭 I’m currently working on [RoR2-4m, A Minecraft plugin with Risk of Rain 2 systems & mechanics](https://github.com/Adelemphii/RoR2-4m)
 
 - 👨‍💻 All of my projects are available at [my Github!](https://github.com/Adelemphii)
 
