@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelemphii&show_icons=true&locale=en&layout=compact&hide=TeX,HTML&theme=synthwave" alt="adelemphii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelemphii&show_icons=true&locale=en&theme=synthwave" alt="adelemphii" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R6NELC9)
