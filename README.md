@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
 
-- 🔭 I’m currently working on [Skynet, an ingenious way to host my discord bots without paying!](https://github.com/Adelemphii/Skynet)
+- 🔭 I’m currently working on [SkynetJS, a JavaScript rewrite of my old Discord Bot!](https://github.com/Adelemphii/SkynetJS)
 
 - 👨‍💻 All of my projects are available at [my Github!](https://github.com/Adelemphii)
 
