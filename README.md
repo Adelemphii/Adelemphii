@@ -1,5 +1,5 @@
-<h1 align="center">Hemwo! I'm Adele</h1>
-<h3 align="center">A somewhat-passionate Java/Minecraft Developer from the U.S.</h3>
+<h1 align="center">Hello, I'm Adelemphii</h1>
+<h3 align="center">A passionate Java/Minecraft Developer from the U.S.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelemphii&label=Profile%20views&color=0e75b6&style=flat" alt="adelemphii" /> </p>
 
