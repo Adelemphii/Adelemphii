@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [my Github!](https://github.com/Adelemphii)
 
-- 📫 How to reach me **Discord: Adelemphii#6213**
+- 📫 How to reach me **Discord: Adelemphii**
 
-- ⚡ Fun fact **I /really/ like food.**
+- ⚡ Committed to learning as much as I can about the internet and its expanding treasure trove of technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelemphii&show_icons=true&locale=en&layout=compact&hide=TeX,HTML&theme=synthwave" alt="adelemphii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelemphii&show_icons=true&locale=en&theme=synthwave" alt="adelemphii" /></p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R6NELC9)
